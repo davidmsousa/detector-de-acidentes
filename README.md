@@ -4,6 +4,7 @@
    O dispositivo conterá acelerômetros e giroscópios que irão captar alguma agitação fora da normalidade para o comportamento de um carro, indicando que ocorreu alguma batida (ou, em casos mais graves, um capotamento). Haverá também um dispositivo gps que irá identificar se o carro continua em movimento ou não. Os sinais serão transmitidos a um microcontrolador, que irá transmitir a um módulo de Bluetooth, que irá por fim transmitir a um celular que contenha o aplicativo Android, indicando a ocorrência ou não de um possível acidente.
    
 Integrantes
+
 Nome: Francisco David Moreira de Sousa
                                                                 
 Nome: Anderson Leandro de Melo
